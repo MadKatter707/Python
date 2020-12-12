@@ -13,3 +13,6 @@ https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3
 
 # Third update listen while staring at 06 code
 https://open.spotify.com/track/52PCrf2tqml44bWLNT58hF
+
+# Forth goes with 07 code
+https://open.spotify.com/track/7FXshacExoDqtNfCXdrbnp
