@@ -4,9 +4,12 @@
 
 https://www.pinterest.com/pin/166562886202840934/
 
-First update
+# First update
 지금 이것은
 꿈인가 현실인가
 
-Second update
+# Second update
 https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3
+
+# Third update listen while staring at 06 code
+https://open.spotify.com/track/52PCrf2tqml44bWLNT58hF
