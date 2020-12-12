@@ -1,6 +1,6 @@
 # Python
-#This is a small diary of things that I came across while studying, it updates whenever I add some file
-#I have started something, may this course be blessed by Saint Me. AMEN ;D
+# I have started something, may this course be blessed by Saint Me. AMEN ;D
+# This is a small diary of things that I came across while studying, it updates whenever I add some file
 
 https://www.pinterest.com/pin/166562886202840934/
 
