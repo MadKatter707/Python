@@ -1,6 +1,6 @@
 # Python
 # I have started something, may this course be blessed by Saint Me. AMEN ;D
-# https://www.youtube.com/watch?v=rfscVS0vtbw&t=3507s I started here
+https://youtu.be/rfscVS0vtbw I started here
 # This is a small diary of things that I came across while studying, it updates whenever I add some file
 
 https://www.pinterest.com/pin/166562886202840934/
